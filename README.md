@@ -5,7 +5,6 @@
 - 📫 How to reach me: You can reach me through my email at deepaksahoodeveloper@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new technologies, and I'm passionate about turning data into actionable insights.
-- When I'm not coding, you can find me hiking or experimenting with new recipes in the kitchen.
 
 <!---
 deepaksahoodeveloper/deepaksahoodeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
